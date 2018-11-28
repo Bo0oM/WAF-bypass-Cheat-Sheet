@@ -1,5 +1,5 @@
-# WAF bypass Cheat Sheet
-Another way to bypass WAF Cheat Sheet 
+# WAF/IPS/DLP bypass Cheat Sheet
+Another way to bypass
 
 **Add \r\n before the first line HTTP request**  
 
